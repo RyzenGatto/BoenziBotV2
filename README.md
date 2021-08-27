@@ -1,5 +1,5 @@
 # BoenziBotV2
-Copyright (C) 2021  Anwar Gatto, Michael Gatto
+Copyright (C) 2021  Andrew Gatto, Michael Gatto
 
   This program comes with ABSOLUTELY NO WARRANTY; for details go to https://www.gnu.org/licenses/
   This is free software, and you are welcome to redistribute it
