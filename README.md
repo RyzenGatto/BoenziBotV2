@@ -7,7 +7,7 @@ Copyright (C) 2021  Andrew Gatto, Michael Gatto
  
   All rights reserved.
 
-The bot is built using google sheets intigration. The way it functions is it finds the users discord ID (NOT there tag/username) in a spreadsheet and edits a column on that row.
+The bot is built using google sheets intigration. The way it functions is it finds the users discord ID (NOT their tag/username) in a spreadsheet and edits a column on that row.
 Note: To enable Google Sheets intigration, you need a token.pickel file. Get this file from your google sheets API. I did not include it because it has confidental information. You should also not publish your token.pickel file.
 
 A discord bot built for the Anza Trail School Music Department/Program/etc
